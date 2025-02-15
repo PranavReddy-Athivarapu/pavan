@@ -1,0 +1,2 @@
+s='pavan'
+print(s)
